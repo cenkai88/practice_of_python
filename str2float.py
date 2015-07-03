@@ -1,3 +1,4 @@
+#map reduce 实现将字符串转换为float小数
 from functools import reduce
 
 def  str2float(s):

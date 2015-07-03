@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 # 把str编码由ascii改为utf8（或gb18030）
+# 爬虫用来爬取豆瓣读书下某一类图书的信息，保存为txt
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
